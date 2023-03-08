@@ -1,0 +1,7 @@
+# docker
+alias dil='docker image ls'
+alias dcl='docker container ls'
+alias drmi='docker rmi '
+alias drm='docker container rm '
+alias dcs='docker container stop '
+
